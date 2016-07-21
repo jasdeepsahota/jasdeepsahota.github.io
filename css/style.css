@@ -1,0 +1,12 @@
+body{
+    background: red;
+}
+
+
+#main-header {
+    background: yellow;
+}
+
+#main-footer { 
+    background:blue;
+}
