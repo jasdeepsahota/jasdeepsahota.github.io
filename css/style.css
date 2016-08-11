@@ -1,0 +1,15 @@
+#main-header {
+    padding:40px 30px 20px 10px;
+    background: #197ED1 ;
+    color: #fff;
+    
+}
+.col {
+    width: 30%;
+    float: left;
+    background: #fff;
+    margin: 0 1%;
+    padding: 10px;
+    
+
+}
